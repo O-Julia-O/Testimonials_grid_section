@@ -1,5 +1,6 @@
 :root {
     --font-style: "Barlow Semi Condensed", sans-serif;
+    --spacing-24: 1.5em;
 }
 
 .barlow-semi-condensed-semibold {
@@ -11,4 +12,8 @@
 * {
     font-family: var(--font-style);
     font-weight: 500;
+}
+
+main {
+    padding: 0 var(--spacing-24);
 }
