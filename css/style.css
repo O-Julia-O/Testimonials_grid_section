@@ -29,3 +29,15 @@
 main {
     padding: 0 var(--spacing-24);
 }
+
+body {
+    background-color: var(--Light-grayish-blue);
+}
+
+.background-purple {
+    background-color: var(--Moderate-violet);
+}
+
+.background-dark-grey {
+    background-color: var(--Very-dark-grayish-blue);
+}
