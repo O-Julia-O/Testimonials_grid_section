@@ -79,3 +79,9 @@ img {
 .border-premium {
     border: #A775F1 solid 2px;
 }
+
+.card--author {
+    display: flex;
+    gap: 17px;
+    align-items: center;
+}
