@@ -36,6 +36,10 @@ body {
 
 .card {
     color: white;
+    padding-top: 26px;
+    padding-left: 32px;
+    padding-right: 32px;
+    padding-bottom: 32px;
 }
 
 .light-card-text-color {
