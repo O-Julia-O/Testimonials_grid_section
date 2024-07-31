@@ -53,3 +53,7 @@ body {
 .card-blackish {
     background-color: #19202D;
 }
+
+.name-of-author {
+    font-size: 13px;
+}
