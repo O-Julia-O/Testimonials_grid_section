@@ -70,3 +70,8 @@ body {
 .quote-text {
     font-size: 13px;
 }
+
+img {
+    width: 28px;
+    border-radius: 50%;
+}
