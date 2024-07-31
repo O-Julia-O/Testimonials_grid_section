@@ -75,3 +75,7 @@ img {
     width: 28px;
     border-radius: 50%;
 }
+
+.border-premium {
+    border: #A775F1 solid 2px;
+}
