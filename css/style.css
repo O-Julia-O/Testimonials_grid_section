@@ -34,22 +34,22 @@ body {
     background-color: var(--Light-grayish-blue);
 }
 
-.background-purple {
+.card {
+    color: white;
+}
+
+.light-card-text-color {
+    
+}
+
+.card-purple {
     background-color: var(--Moderate-violet);
 }
 
-.background-dark-grey {
+.card-dark-grey {
     background-color: var(--Very-dark-grayish-blue);
 }
 
-.background-blackish {
+.card-blackish {
     background-color: #19202D;
-}
-
-.color-text-for-white {
-    color: #48556A;
-}
-
-.color-white {
-    color: var(--White);
 }
