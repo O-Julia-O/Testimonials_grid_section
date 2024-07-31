@@ -41,3 +41,7 @@ body {
 .background-dark-grey {
     background-color: var(--Very-dark-grayish-blue);
 }
+
+.background-blackish {
+    background-color: #19202D;
+}
