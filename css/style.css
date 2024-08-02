@@ -54,6 +54,10 @@ body {
 }
 
 .card-purple {
+    /* position: relative; */
+    background-image: url("../images/bg-pattern-quotation.svg");
+    background-repeat: no-repeat;
+    background-position-x: 80%;
     background-color: var(--Moderate-violet);
 }
 
